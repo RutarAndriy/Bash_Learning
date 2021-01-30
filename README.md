@@ -1,2 +1,2 @@
-# Bash_Learning
+# Bash Learning
 Learning bash scripts
